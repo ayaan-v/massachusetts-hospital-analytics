@@ -1,12 +1,6 @@
 # Massachusetts General Hospital Analytics
 ### Examining patient encounters, treatment costs, and behavioral patterns | 2011 – 2022
 
-![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20Python%20%7C%20MySQL%20%7C%20Power%20BI-blue)
-![Dataset](https://img.shields.io/badge/Dataset-Synthea%20Synthetic%20EHR-lightgrey)
-![Records](https://img.shields.io/badge/Encounters-27%2C891-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
----
 
 ## Project Overview
 
@@ -48,33 +42,6 @@ The analysis is structured around three core objectives:
 
 ---
 
-## Project Structure
-
-```
-mgh-hospital-analytics/
-│
-├── Dataset/
-│   ├── encounters.csv
-│   ├── patients.csv
-│   ├── payers.csv
-│   ├── procedures.csv
-│   └── organizations.csv
-│
-├── Excel/
-│   └── hospital_analytics.xlsx
-│
-├── Python/
-│   └── hospital_eda.py
-│
-├── SQL/
-│   ├── create_hospital_db.sql
-│   └── hospital_analytics_solutions.sql
-│
-├── PowerBI/
-│   └── hospital_analytics.pbix
-│
-└── README.md
-```
 
 ---
 
@@ -205,6 +172,6 @@ python hospital_eda.py
 
 ## Author
 
-**Ayaan**  
-BBA Graduate | Aspiring Data Analyst  
+**Ayaan v**  
+Aspiring Data Analyst  
 [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/ayaan-v)
