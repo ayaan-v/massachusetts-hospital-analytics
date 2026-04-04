@@ -174,4 +174,4 @@ python hospital_eda.py
 
 **Ayaan v**  
 Aspiring Data Analyst  
-[LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/ayaan-v)
+[LinkedIn](www.linkedin.com/in/ayaan-vadsaria) | [GitHub](https://github.com/ayaan-v)
