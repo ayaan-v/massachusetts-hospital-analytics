@@ -1,4 +1,4 @@
-# Massachusetts General Hospital Analytics
+# Massachusetts General Hospital - Healthcare Analytics
 ### Examining patient encounters, treatment costs, and behavioral patterns | 2011 – 2022
 
 
